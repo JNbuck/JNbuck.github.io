@@ -2,7 +2,7 @@
 layout: post
 title:  "(超详细)移动硬盘安装Ubuntu，实现windows和linux双系统(一)"
 date:   2020-12-11 15:43:44 +0530
-categories: Linux,ubuntu
+categories: Linux ubuntu
 ---
 
 > 本教程从基础知识出发，目的是为了给刚刚开始使用Linux的小白带来一份比较完美的装机体验
@@ -38,25 +38,25 @@ categories: Linux,ubuntu
 
 看到下面这个界面
 
-![QQ截图20201125232419](C:\Users\JBuck\Desktop\Linux总结\QQ截图20201125232419.png)
+![1](D:\Github\JNbuck.github.io\_posts\images\1.png)
 
 **2.在管理中找到磁盘管理**
 
-![QQ截图20201125232550](C:\Users\JBuck\Desktop\Linux总结\QQ截图20201125232550.png)
+![2](D:\Github\JNbuck.github.io\_posts\images\2.png)
 
 **3.右击其中一个磁盘，点击属性**
 
 右击下面的任意一个磁盘，点击属性
 
-![QQ截图20201125232624](C:\Users\JBuck\Desktop\Linux总结\QQ截图20201125232624.png)
+![3](D:\Github\JNbuck.github.io\_posts\images\3.png)
 
 得到下面这个界面
 
-![QQ截图20201125232737](C:\Users\JBuck\Desktop\Linux总结\QQ截图20201125232737.png)
+![4](D:\Github\JNbuck.github.io\_posts\images\4.png)
 
 **4.在”属性“中切换到”卷“标签,这时我们就可以看到”磁盘分区形式“可以看到为GPT**
 
-![QQ截图20201125232819](C:\Users\JBuck\Desktop\Linux总结\QQ截图20201125232819.png)
+![5](D:\Github\JNbuck.github.io\_posts\images\5.png)
 
 ##### *GPT和MBR是什么*
 
