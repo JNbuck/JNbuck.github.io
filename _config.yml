@@ -1,5 +1,5 @@
 title: 许俊铎的个人博客
-author: 许俊铎
+author: JNbuck
 email: 1459719481@qq.com
 description: > # this means to ignore newlines until "show_exerpts:"
   许俊铎，许俊铎的个人微博，许俊铎的博客，后端，前端开发，个人博客，java,javascript,javaweb,deeplearning
@@ -25,7 +25,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter:
-    github:  https://github.com/JNbuck
+    github:  samarsault
     #linkedIn:
     #rss: rss
     #dribbble: jekyll
