@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Integrating razorpay into your webapp"
+title:  "(超详细)移动硬盘安装Ubuntu，实现windows和linux双系统(一)"
 date:   2020-12-11 15:43:44 +0530
 categories: Linux,ubuntu
 ---
-
-# (超详细)移动硬盘安装Ubuntu，实现windows和linux双系统(一)
 
 > 本教程从基础知识出发，目的是为了给刚刚开始使用Linux的小白带来一份比较完美的装机体验
 >
@@ -14,8 +12,7 @@ categories: Linux,ubuntu
 **本教程大纲** 
 
 [基础知识](#1)
-
-​    [ 1.硬件规格的分类和系统类型](#1.硬件规格的分类和系统类型)
+    [ 1.硬件规格的分类和系统类型](#1.硬件规格的分类和系统类型)
 
 ​		[1.1 GPT和MBR](#1.1 GPT和MBR)
 
