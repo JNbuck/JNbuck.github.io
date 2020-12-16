@@ -38,25 +38,25 @@ categories: Linux ubuntu
 
 看到下面这个界面
 
-![1](assets\1.png)
+![1](/assets/1.png)
 
 **2.在管理中找到磁盘管理**
 
-![2](assets\2.png)
+![2](/assets/2.png)
 
 **3.右击其中一个磁盘，点击属性**
 
 右击下面的任意一个磁盘，点击属性
 
-![3](assets\3.png)
+![3](/assets/3.png)
 
 得到下面这个界面
 
-![4](assets\4.png)
+![4](/assets/4.png)
 
 **4.在”属性“中切换到”卷“标签,这时我们就可以看到”磁盘分区形式“可以看到为GPT**
 
-![5](assets\5.png)
+![5](/assets/5.png)
 
 ##### *GPT和MBR是什么*
 

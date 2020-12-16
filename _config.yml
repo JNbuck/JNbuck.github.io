@@ -26,7 +26,7 @@ plainwhite:
     - post
   navigation:
     - title: 数字图像处理
-      url: "_posts/2020-12-16-数字图像处理程序汇总.md"
+      url: "/_posts/2020-12-16-数字图像处理程序汇总.md"
     - title: Resume
       url: "/resume"
 
