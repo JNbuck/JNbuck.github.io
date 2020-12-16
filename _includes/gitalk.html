@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!-- Link Gitalk 的支持文件  -->
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+    <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+    <script type="text/javascript" src="/assets/js/md5.min.js"></script>
+    <div id="gitalk-container"></div>
+    <script type="text/javascript">
+        var gitalk = new Gitalk({
+
+            // gitalk的主要参数
+            clientID: '2ad93470559f04f84271',
+            clientSecret: '1898b8522973b91d1321add779cb47aa5f3e9a09',
+            repo: 'https://jnbuck.github.io/',
+            owner: 'JNbuck',
+            admin: ['JNbuck'],
+            id: md5(location.pathname),
+
+        });
+        gitalk.render('gitalk-container');
+    </script>
+    <!-- Gitalk end -->
+</head>
+<body>
+
+</body>
+</html>
