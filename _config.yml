@@ -16,7 +16,6 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  disqus_shortname: games
   portfolio_image: "assets/1.JPG" # the path from the base directory of the site to the image to display (no / at the start)
   portfolio_image_dark: "assets/dark.png"
   analytics_id: "< Client ID >"
@@ -30,7 +29,11 @@ plainwhite:
       url: "https://jnbuck.github.io/c++/2020/12/16/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E7%A8%8B%E5%BA%8F%E6%B1%87%E6%80%BB.html"
     - title: Resume
       url: "/resume"
-
+  gitalk:
+    owner: JNbuck
+    repo: blog-comments
+    clientID: 2ad93470559f04f84271
+    clientSecret: 1898b8522973b91d1321add779cb47aa5f3e9a09
   # generate social links in footer
   social_links:
     #twitter:
@@ -61,6 +64,7 @@ plainwhite:
 
 # Build settings
 theme: plainwhite
+
 
 plugins:
   - jekyll-seo-tag
