@@ -93,7 +93,7 @@
         <category>SSM</category>
       </categories>
       <tags>
-        <tag>Spring Java</tag>
+        <tag>Spring</tag>
       </tags>
   </entry>
   <entry>
@@ -2028,7 +2028,7 @@ mysql&gt; explain select ename,sal from emp where sal = 5000;
         <category>数据库</category>
       </categories>
       <tags>
-        <tag>Java Mysql</tag>
+        <tag>Mysql</tag>
       </tags>
   </entry>
 </search>
