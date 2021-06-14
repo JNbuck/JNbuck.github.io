@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2021/06/13/test/</url>
-    <content><![CDATA[<h1 id="test">Test<a title="#test" href="#test"></a></h1>
-<p>testtest</p>
-]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>JDBC基础知识</title>
     <url>/2021/06/08/JDBC%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
     <content><![CDATA[<blockquote>
