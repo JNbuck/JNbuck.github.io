@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>JDBC基础知识</title>
-    <url>/JNbuck.github.io/2021/06/08/JDBC%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+    <url>/blog/2021/06/08/JDBC%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
     <content><![CDATA[<blockquote>
 <p>JDBC链接数据库，是深入底层进行学习的基础</p>
 </blockquote>
@@ -101,7 +101,7 @@
   </entry>
   <entry>
     <title>Spring</title>
-    <url>/JNbuck.github.io/2021/06/08/Spring/</url>
+    <url>/blog/2021/06/08/Spring/</url>
     <content><![CDATA[<h1 id="spring">Spring<a title="#spring" href="#spring"></a></h1>
 <h2 id="1.-spring">1. Spring<a title="#1.-spring" href="#1.-spring"></a></h2>
 <h3 id="1.1-简介">1.1 简介<a title="#1.1-简介" href="#1.1-简介"></a></h3>
@@ -658,7 +658,7 @@
   </entry>
   <entry>
     <title>MySQL笔记</title>
-    <url>/JNbuck.github.io/2021/06/08/MySQL%E7%AC%94%E8%AE%B0/</url>
+    <url>/blog/2021/06/08/MySQL%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<blockquote>
 <p>本教程为mysql初步笔记，可以简单粗略的将mysql学习一遍</p>
 </blockquote>
